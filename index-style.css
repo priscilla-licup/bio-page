@@ -1,17 +1,16 @@
-.container {
+/* .container {
     border: 3px;
     padding: 20px;
-}
+} */
 
 .float {
     width: 50%;
     float: left;
     padding: 20px;
-    border: 2px solid red;
 }
 
 .float img {
-    width: 10px;
+    width: 30px;
     height: auto;
 }
 
