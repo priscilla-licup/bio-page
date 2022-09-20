@@ -10,7 +10,7 @@
     border: 2px solid red;
 }
 
-div img {
+.float img {
     width: 10px;
     height: auto;
 }
