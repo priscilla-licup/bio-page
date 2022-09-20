@@ -1,1 +1,17 @@
+header {
+    position: static;
+}
 
+header h2 {
+    position: relative;
+    top: 20px;
+}
+
+header p {
+    position: relative;
+    top: 10px;
+}
+
+header img {
+    position: absolute;
+}
