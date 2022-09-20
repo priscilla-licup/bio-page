@@ -1,12 +1,19 @@
 header {
-    display: flex;
-    align-items: center;
+    border: 3px;
+    padding: 20px;
 }
 
-header img {
+header div {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+/* header img {
     top: 20px;
     margin-right: 20px;
-}
+} */
 
 /* header h1 {
     position: relative;
